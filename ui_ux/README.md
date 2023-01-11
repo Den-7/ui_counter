@@ -1,16 +1,3 @@
-# npc_irs
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/64165146/211858014-9284810f-8b79-4732-b446-e1f798bce47c.png)
+![image](https://user-images.githubusercontent.com/64165146/211858071-2a043c5e-b978-4b44-b008-e3cc38732091.png)
+![image](https://user-images.githubusercontent.com/64165146/211858092-59ee4610-346c-4354-bc05-45707a0cfd81.png)
